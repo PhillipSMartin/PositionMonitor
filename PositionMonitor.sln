@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PositionMonitorLib", "PositionMonitorLib\PositionMonitorLib.csproj", "{9444F925-0382-411A-8784-43923802DA4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PositionMonitorTestHarness", "PositionMonitorTestHarness\PositionMonitorTestHarness.csproj", "{61F47580-5C40-44EF-8705-4496EBC13078}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoistionMonitorTests", "PositionMontiorTests\PoistionMonitorTests.csproj", "{14F35A2E-11D7-4874-B945-57851887FC04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9444F925-0382-411A-8784-43923802DA4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9444F925-0382-411A-8784-43923802DA4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9444F925-0382-411A-8784-43923802DA4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9444F925-0382-411A-8784-43923802DA4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61F47580-5C40-44EF-8705-4496EBC13078}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61F47580-5C40-44EF-8705-4496EBC13078}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61F47580-5C40-44EF-8705-4496EBC13078}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61F47580-5C40-44EF-8705-4496EBC13078}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14F35A2E-11D7-4874-B945-57851887FC04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14F35A2E-11D7-4874-B945-57851887FC04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14F35A2E-11D7-4874-B945-57851887FC04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14F35A2E-11D7-4874-B945-57851887FC04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
